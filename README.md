@@ -1,4 +1,5 @@
 # Multi-Fidelity Machine Learning
+(For Molecular Excitation Energy)
 
 This repository contains scripts to reproduce the various results of the research paper (available at XXXX). 
 
@@ -9,3 +10,5 @@ The scripts perform the following:
 * The script `MFML_QZVP_LC.py` generates the outputs used to generate Figure 5. 
 * `MFML_AntDFTB_analysis.py` generates the output to generate Figure S6. 
 * `SingleDifferenceML_LearningCurves.py` generates the two-level ML model as seen in Figure S8.
+
+All plots can be generated via the jupyter notebook after suitable direactory modifications while loading data.
