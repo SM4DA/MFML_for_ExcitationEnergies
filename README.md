@@ -11,4 +11,4 @@ The scripts perform the following:
 * `MFML_AntDFTB_analysis.py` generates the output to generate Figure S6. 
 * `SingleDifferenceML_LearningCurves.py` generates the two-level ML model as seen in Figure S8.
 
-All plots can be generated via the jupyter notebook after suitable direactory modifications while loading data.
+All plots can be generated via the jupyter notebook after suitable directory modifications while loading data.
