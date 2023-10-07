@@ -1,0 +1,8 @@
+conda = 4.12.0
+jupyterlab = 3.3.2
+python = 3.9.18
+pip = 23.2.1
+numpy = 1.24.3
+qml = 0.4.0.27
+tqdm = 4.65.0
+
