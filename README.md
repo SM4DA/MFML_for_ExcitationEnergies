@@ -1,7 +1,7 @@
 # Multi-Fidelity Machine Learning
 (For Molecular Excitation Energy)
 
-This repository contains scripts to reproduce the various results of the research paper (available at XXXX). 
+This repository contains scripts to reproduce the various results of the research paper (available at 10.1021/acs.jctc.3c00882). 
 
 The scripts are written in python. The files requirements.txt lists the versions of the libraries used. The rawdata is stored in the directories `Data` and `Evaluation`.
 
